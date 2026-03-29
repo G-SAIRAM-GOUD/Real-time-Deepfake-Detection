@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# A Real-Time Deepfake Detection System identifies whether a image is real or manipulated instantly.
 
-TODO: Document your project here
+pbl project pdnc 
